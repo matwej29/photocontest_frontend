@@ -1,0 +1,19 @@
+.menu {
+    display: flex;
+    flex-direction: row;
+    width: 100vw;
+    height: 50px;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 5%;
+}
+
+.menu-item {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    padding: 0 20px;
+    cursor: pointer;
+}
